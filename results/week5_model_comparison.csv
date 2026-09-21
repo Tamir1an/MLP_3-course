@@ -1,0 +1,4 @@
+﻿model,vector_size,vocabulary_size,known_unique_words,unique_word_coverage_%,token_coverage_%,supports_oov,training_source,related_pairs_mean,unrelated_pairs_mean,semantic_separation
+Word2Vec,50,2188,2188,42.69,87.61,нет,собственный корпус,0.532,0.2758,0.2563
+GloVe,50,2188,2188,42.69,87.61,нет,собственный корпус,0.2974,-0.0878,0.3853
+fastText,50,2188,2188,42.69,100.0,да,собственный корпус,0.5247,0.334,0.1907

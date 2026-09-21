@@ -1,0 +1,17 @@
+{
+  "best_embedding_model": "fastText",
+  "classes": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "vector_size": 50,
+  "test_size": 200,
+  "random_state": 42,
+  "metric_used_for_selection": "macro_f1",
+  "embedding_files": {
+    "Word2Vec": "word2vec_marketplace.model",
+    "GloVe": "glove_marketplace.kv",
+    "fastText": "fasttext_marketplace.model"
+  }
+}

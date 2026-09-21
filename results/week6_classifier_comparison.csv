@@ -1,0 +1,4 @@
+﻿model,accuracy,balanced_accuracy,macro_f1,weighted_f1,zero_vector_documents
+fastText,0.66,0.5266,0.4871,0.7011,0
+Word2Vec,0.605,0.5131,0.462,0.6553,0
+GloVe,0.58,0.4247,0.3859,0.6133,0

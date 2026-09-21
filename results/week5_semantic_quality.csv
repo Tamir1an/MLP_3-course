@@ -1,0 +1,4 @@
+﻿model,related_pairs_mean,unrelated_pairs_mean,semantic_separation
+Word2Vec,0.532,0.2758,0.2563
+GloVe,0.2974,-0.0878,0.3853
+fastText,0.5247,0.334,0.1907

@@ -1,0 +1,3 @@
+﻿method,documents,features,nonzero_values,sparsity_%,average_nonzero_per_document,weight_meaning
+BOW,1000,2100,18373,99.13,18.37,число вхождений
+TF-IDF,1000,2100,18373,99.13,18.37,нормированный вес TF-IDF
